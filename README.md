@@ -1,1 +1,1 @@
-# Forming-a-Magic-Square-ALGO
+# Forming-a-Magic-Square-ALGO.The function compares the given 3×3 square to all possible 3×3 magic squares, calculating the cost (sum of absolute differences) to convert it. It returns the minimum cost required to form a magic square.
